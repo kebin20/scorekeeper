@@ -20,6 +20,8 @@ Quick Note: The use of <span> for the counters to update is very useful when you
 
 
 
+
+
 Part 2: 
 
 Main components worked on:
@@ -37,6 +39,8 @@ Quick Note: The dropdown round numbers will be passed as a string rather than a 
 
 
 
+
+
 Part 3:
 
 Main components worked on:
@@ -47,6 +51,10 @@ Main components worked on:
 Used the templates from Bulma to set up the positioning, card design and button designs. Added my own picture for a basketball score keeper.  
 
 Quick Note: Use section class to center every element on the webpage
+
+
+
+
 
 
 Part 4:
