@@ -11,8 +11,8 @@ Part 1:
 
 Main components worked on: 
 
-- code for Player 1 and Player 2
-- code for the score display
+- coded for Player 1 and Player 2
+- coded for the score display
 
 Created the basic setup for the HTML and JavaScript files. Then, added a basic heading, buttons for Player 1, Player 2 and a reset button,  with corresponding id names to the elements. Created functions for both the Player One and Player Two buttons, where once clicked, the counter will show a number.  
 
@@ -37,7 +37,6 @@ Quick Note: The dropdown round numbers will be passed as a string rather than a 
 
 
 
-
 Part 3:
 
 Main components worked on:
@@ -48,3 +47,14 @@ Main components worked on:
 Used the templates from Bulma to set up the positioning, card design and button designs. Added my own picture for a basketball score keeper.  
 
 Quick Note: Use section class to center every element on the webpage
+
+
+Part 4:
+
+Main components worked on:
+
+- Refactoring code, making it more compact
+
+Made p1 and p2 as objects which contains the selectors and the score global variable. Created an updateScore function to streamline the code. Instead of having separate functions for p1 and p2, it's now refactored to player and opponent.  Reset button was also made into a for loop, will make adding extra players easier. 
+
+Quick Note: Can use for loop for the reset function. Makes it easier to allow additional players. Extra extra note: I have looked and compared my code to the sample one and it's exactly the same, however my code was not running properly which was strage. 
