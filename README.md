@@ -19,6 +19,7 @@ Created the basic setup for the HTML and JavaScript files. Then, added a basic h
 Quick Note: The use of <span> for the counters to update is very useful when you need the counter to activate. 
 
 
+
 Part 2: 
 
 Main components worked on:
@@ -33,3 +34,17 @@ Then, created a function for reseting the display, so when the reset button is c
 Next, added an extra function for when the winner reaaches the end of the round, a green colour is applied, vice versa with the loser, and when the reset button is clicked, the colors go back to black. classList.remove/add was used to achieve this. 
 
 Quick Note: The dropdown round numbers will be passed as a string rather than a number. This is where parseInt() is used to convert the rounds to a number. 
+
+
+
+
+Part 3:
+
+Main components worked on:
+
+- First time using Bulma
+- Styled elements and positioned everything using Bulma
+
+Used the templates from Bulma to set up the positioning, card design and button designs. Added my own picture for a basketball score keeper.  
+
+Quick Note: Use section class to center every element on the webpage
