@@ -1,13 +1,13 @@
 # Score Keeper
 A scorekeeper project from Colt Steele's Web Development Course on uDemy
 
-It is a sample project where you can keep score for a any game that you play with another player. 
+A project where you can keep score for a any game that you play with another player. 
 
-It utilises a mix of HTML, CSS, and Javascript. It also utilises CSS made from the Bulma CSS framework. 
+It utilises a mix of HTML, CSS, and Javascript. In addition, styling was completed using Bulma.
 
 
 
-Part 1:
+Part 1:Cancel changes
 
 Main components worked on: 
 
@@ -36,7 +36,6 @@ Then, created a function for reseting the display, so when the reset button is c
 Next, added an extra function for when the winner reaaches the end of the round, a green colour is applied, vice versa with the loser, and when the reset button is clicked, the colors go back to black. classList.remove/add was used to achieve this. 
 
 Quick Note: The dropdown round numbers will be passed as a string rather than a number. This is where parseInt() is used to convert the rounds to a number. 
-
 
 
 
