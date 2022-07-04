@@ -1,13 +1,13 @@
 # Score Keeper
 A scorekeeper project from Colt Steele's Web Development Course on uDemy
 
-It is a sample project where you can keep score for a any game that you play with another player. 
+A project where you can keep score for a any game that you play with another player. 
 
-It utilises a mix of HTML, CSS, and Javascript. It also utilises CSS made from the Bulma CSS framework. 
+It utilises a mix of HTML, CSS, and Javascript. In addition, styling was completed using Bulma.
 
 
 
-Part 1:
+Part 1:Cancel changes
 
 Main components worked on: 
 
@@ -17,6 +17,8 @@ Main components worked on:
 Created the basic setup for the HTML and JavaScript files. Then, added a basic heading, buttons for Player 1, Player 2 and a reset button,  with corresponding id names to the elements. Created functions for both the Player One and Player Two buttons, where once clicked, the counter will show a number.  
 
 Quick Note: The use of <span> for the counters to update is very useful when you need the counter to activate. 
+
+
 
 
 
@@ -37,6 +39,7 @@ Quick Note: The dropdown round numbers will be passed as a string rather than a 
 
 
 
+
 Part 3:
 
 Main components worked on:
@@ -47,6 +50,10 @@ Main components worked on:
 Used the templates from Bulma to set up the positioning, card design and button designs. Added my own picture for a basketball score keeper.  
 
 Quick Note: Use section class to center every element on the webpage
+
+
+
+
 
 
 Part 4:
